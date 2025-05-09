@@ -40,7 +40,7 @@ Date: 3/20
 Date: 3/24
 -- 
 - Combine the wifi, motor, pressure sensor and distance sensor together to create a virtual input to test the logic of how all the components work together.
-![Alt text](images/All tests.jpg)
+![Alt text](Yilin/All tests.jpg)
 
 
 Date: 4/3
