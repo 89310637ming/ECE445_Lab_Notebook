@@ -65,7 +65,7 @@ Date: 4/18
 --
 - Assemble the 3D printed feeder and add cat food to test the food output.
 - Due to the problem of code setting, the motor torque is not large enough, and the motor occasionally gets stuck. Adjust the motor speed to test the most suitable combination. The torque is large enough when the motor can reach a certain speed, and the expectation of grain discharge can be achieved without getting stuck.
-- 
+
 ![Assembly](Assembly.png)
 
 
