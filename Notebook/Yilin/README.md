@@ -48,6 +48,8 @@ Date: 4/3
 - Start to initialize the camera separately, connect to wifi and successfully monitor the real-time image of the camera through the page.
 - The Arudino code was adjusted to adjust the image quality of the camera, and the focal length of the camera was adjusted to successfully obtain a clear image.
 ![CameraTest1](CameraTest1.png)
+![CameraTest2](CameraTest2.png)
+
 
 Date: 4/8
 -- 
@@ -63,6 +65,7 @@ Date: 4/18
 --
 - Assemble the 3D printed feeder and add cat food to test the food output.
 - Due to the problem of code setting, the motor torque is not large enough, and the motor occasionally gets stuck. Adjust the motor speed to test the most suitable combination. The torque is large enough when the motor can reach a certain speed, and the expectation of grain discharge can be achieved without getting stuck.
+![Assembly](Assembly.png)
 
 
 
