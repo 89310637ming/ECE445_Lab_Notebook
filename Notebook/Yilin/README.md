@@ -21,7 +21,7 @@ Date: 3/4
 Date: 3/6
 -- 
 - Figured out that the esp32 being used is not suitable.
- Cnfigured the general settings for Arduino.
+ Configured the general settings for Arduino.
 
 
 Date: 3/10
@@ -40,7 +40,7 @@ Date: 3/20
 Date: 3/24
 -- 
 - Combine the wifi, motor, pressure sensor and distance sensor together to create a virtual input to test the logic of how all the components work together.
-
+![Alt text](images/All tests.jpg)
 
 
 Date: 4/3
