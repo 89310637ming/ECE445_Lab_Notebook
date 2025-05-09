@@ -47,6 +47,7 @@ Date: 4/3
 -- 
 - Start to initialize the camera separately, connect to wifi and successfully monitor the real-time image of the camera through the page.
 - The Arudino code was adjusted to adjust the image quality of the camera, and the focal length of the camera was adjusted to successfully obtain a clear image.
+![CameraTest1](CameraTest1.png)
 
 Date: 4/8
 -- 
