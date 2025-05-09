@@ -34,7 +34,9 @@ Date: 3/10
 Date: 3/20
 -- 
 - Built the wodden exterior structure. 
-- Figured that the angle of the roof matters for the solar panel to absorb sunlight. 
+- Figured that the angle of the roof matters for the solar panel to absorb sunlight.
+  ![Exterior Look](Exterior_Look.png)
+
 
 
 Date: 3/24
@@ -55,6 +57,7 @@ Date: 4/8
 -- 
 - Completed the AWS connection with the YOLO code that was written, and now everything is able to reach to the backend from anywhere and any wifi connection. 
 - Tested by using another computer that is different than what the AWS is being ran on, and image was able to sent through and get a response back. 
+  ![AWS](AWS.png)
 
 
 Date: 4/11
@@ -75,6 +78,7 @@ Date: 4/18
 - Motor connection, and also weight sensor were placed into the code, worked fine, beside the motor was too slow. 
 - Modified the motor and the code for it, so that it dispense the food.
 - Set the limit for the weight sensor. 
+  ![Interior Look](Interior_Look.png)
 
 
 Date: 4/24
