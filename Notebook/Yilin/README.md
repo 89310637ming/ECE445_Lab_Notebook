@@ -40,7 +40,7 @@ Date: 3/20
 Date: 3/24
 -- 
 - Combine the wifi, motor, pressure sensor and distance sensor together to create a virtual input to test the logic of how all the components work together.
-![All tests](All_tests.jpg)
+![All tests](All%20tests.jpg)
 
 
 Date: 4/3
@@ -65,6 +65,7 @@ Date: 4/18
 --
 - Assemble the 3D printed feeder and add cat food to test the food output.
 - Due to the problem of code setting, the motor torque is not large enough, and the motor occasionally gets stuck. Adjust the motor speed to test the most suitable combination. The torque is large enough when the motor can reach a certain speed, and the expectation of grain discharge can be achieved without getting stuck.
+- 
 ![Assembly](Assembly.png)
 
 
