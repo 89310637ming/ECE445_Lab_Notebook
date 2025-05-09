@@ -51,7 +51,7 @@ Date: 4/3
 - Tested the code for image processing on cloud, thought it would work through flask backend, but later found out no signal were able to sent to the backend due to different network connected.
 - Decided to swtich over to cloud(more expensive), and decided to use AWS. 
 
-Date: 4/18
+Date: 4/8
 -- 
 - Completed the AWS connection with the YOLO code that was written, and now everything is able to reach to the backend from anywhere and any wifi connection. 
 - Tested by using another computer that is different than what the AWS is being ran on, and image was able to sent through and get a response back. 
