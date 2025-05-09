@@ -77,7 +77,8 @@ Date: 4/18
 --
 - Motor connection, and also weight sensor were placed into the code, worked fine, beside the motor was too slow. 
 - Modified the motor and the code for it, so that it dispense the food.
-- Set the limit for the weight sensor. 
+- Set the limit for the weight sensor.
+  
   ![Interior Look](Interior%20Look.png)
 
 
