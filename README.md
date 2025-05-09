@@ -33,7 +33,7 @@ Date: 3/10
 
 Date: 3/20
 -- 
--Built the wodden exterior structure. 
+- Built the wodden exterior structure. 
 - Figured that the angle of the roof matters for the solar panel to absorb sunlight. 
 
 
