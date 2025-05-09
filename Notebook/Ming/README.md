@@ -81,6 +81,7 @@ Date: 4/24
 -- 
 - Built a website that monitors the result from the ESP32, as well as store images that was sent to backend. 
 - Tested to see the accuracy of the AI detection(above 90% accuracy)
+![Website](Website.png)
 
 
 
