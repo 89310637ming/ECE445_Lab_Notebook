@@ -21,7 +21,7 @@ Date: 3/4
 Date: 3/6
 -- 
 - Figured out that the esp32 being used is not suitable.
- Cnfigured the general settings for Arduino.
+ Configured the general settings for Arduino.
 
 
 Date: 3/10
